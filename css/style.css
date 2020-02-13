@@ -147,7 +147,7 @@ Keyframes for animation*/
 
 .gallery{
   display: -ms-flexbox;
-  /* display: flex; */
+  display: flex;
   flex-flow: row wrap;
   justify-content: space-around;
   align-items: center;
