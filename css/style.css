@@ -88,7 +88,7 @@ Keyframes for animation*/
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    align-items: center;
+    /* align-items: center; */
     /* flex-direction: column; */
 }
 
@@ -147,7 +147,7 @@ Keyframes for animation*/
 
 .gallery{
   display: -ms-flexbox;
-  display: flex;
+  /* display: flex; */
   flex-flow: row wrap;
   justify-content: space-around;
   align-items: center;
